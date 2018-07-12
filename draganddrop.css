@@ -1,0 +1,30 @@
+body{
+    background-color:coral;
+}
+
+h1{
+    color: blue;
+}
+
+div{
+    color:green;
+    background-color:rgb(0, 255, 179);
+    border:1px dotted red;
+}
+
+#divid{
+    background-color: aqua;
+    width: 150px;
+    height : 150px;
+    position: absolute;
+    border : 1px solid black;
+
+}
+#dragStop{
+    background-color: chocolate;
+    width: 200px;
+    height : 200px;
+    float: right;
+    border : 1px solid black;
+
+}

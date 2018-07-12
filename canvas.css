@@ -1,0 +1,9 @@
+#artboard{
+    width: 400px;
+    height: 400px;
+    background-color: aquamarine;
+    border: 1px solid orange;
+    border-radius: 10px;
+    box-shadow: 5px 5px  orangered;
+
+}
